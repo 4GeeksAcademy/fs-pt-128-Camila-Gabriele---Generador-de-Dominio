@@ -1,6 +1,6 @@
-let pronoun = ['the', 'our'];
-let adj = ['great', 'big'];
-let noun = ['jogger', 'racoon'];
+let pronoun = ['the', 'our', 'your', 'his'];
+let adj = ['great', 'big', 'little', 'crazy'];
+let noun = ['jogger', 'racoon', 'turtle', 'ninja'];
 let dom = ['.com', '.net', '.org', '.us', '.io'];
 
 for (let i = 0; i < pronoun.length; i++) {
@@ -12,3 +12,5 @@ for (let i = 0; i < pronoun.length; i++) {
         }
     }
 }
+
+
